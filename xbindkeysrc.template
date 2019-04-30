@@ -1,0 +1,29 @@
+#####################################
+#                                   #
+#   xbindkeys config                #
+#   for Logitech M510               #
+#   by post@sascha-wiswedel.de      #
+#   v0.1                            #
+#   2019-04-30                      #
+#                                   #
+#####################################
+
+# Bind mousewheel press
+"./mouseKeys.sh mouseWheelPress"
+  b:2
+
+# Bind mousewheel left
+"./mouseKeys.sh mouseWheelLeft"
+  b:6
+
+# Bind mousewheel right
+"./mouseKeys.sh mouseWheelRight"
+  b:7
+
+# Bind lower thumb button
+"./mouseKeys.sh thumbLower"
+  b:8
+
+# Bind upper thumb button
+"./mouseKeys.sh thumbUpper"
+  b:9
